@@ -26,12 +26,12 @@
     "browser",
     "front-end"
   ],
-  "author": "dwyl & friends!",
+  "author": "Vandy, dwyl & friends!",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/dwyl/learn-tdd/issues"
+    "url": "https://github.com/homeaidepi/tdd/issues"
   },
-  "homepage": "https://github.com/dwyl/learn-tdd",
+  "homepage": "https://github.com/homeaidepi/tdd",
   "devDependencies": {
     "istanbul": "^0.4.3",
     "jsdoc": "^3.4.0",
